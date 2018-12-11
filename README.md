@@ -1,5 +1,4 @@
 # World-Development-Indicators-in-Madagascar
-World Development Indicators in Madagascar
 
 <h1>Do the rise of Mobile subscriptions tend to impact the GDP in emerging
 economies like Madagascar ?</h1>
