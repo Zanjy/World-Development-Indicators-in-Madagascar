@@ -8,3 +8,5 @@ In this notebook, I will be using an open dataset from Kaggle. It is The World D
 dataset obtained from the World Bank containing over a thousand annual indicators of economic
 development from hundreds of countries around the world.
 This is a slightly modified version of the original dataset from The World Bank.
+
+The file is available here : https://data.worldbank.org/indicator 
